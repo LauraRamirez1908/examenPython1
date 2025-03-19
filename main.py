@@ -22,6 +22,7 @@ print("Presiona 5 para salir")
 
 while opcion != 5:
     opcion = int(input("Digita una opción: "))
+    
     if opcion == 1:
         print("Creación de un nuevo helado")
         
